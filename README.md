@@ -2,10 +2,9 @@
 
 This is the first file in this repo
 
-## Ipsum Below
+## Website stuff
 
-This is sample text for learning purposes only!
+1. index.html
 
-This is sample text for learning purposes only!
 
-This is sample text for learning purposes only!
+
